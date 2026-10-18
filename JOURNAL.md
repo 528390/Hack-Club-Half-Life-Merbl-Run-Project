@@ -28,4 +28,4 @@ In this session, I worked on getting my Onshape software running and exploring s
 
 ![base part](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/B5xWFG6gm7WgdrhdULmY6PTXmJFExRos/0e9454944f733d5161e958d58ca66bfa671264a490f3e1c9d19a2e663b3ef594.png)
 
-![basic straight track](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/B5xWFG6gm7WgdrhdULmY6PTXmJFExRos/ae314508333c0cbfcc5b5c8f126440369f30600b0f1cecb504c8855cba672266.png)
+![basic straight track](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/B5xWFG6gm7WgdrhdULmY6PTXmJFExRos/873b243d6953a941873783c0c1f09d048e5f2da20c211914090e6bcf39957e62.png)
