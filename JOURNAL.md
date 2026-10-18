@@ -14,13 +14,15 @@
 
 ## Contents
 
-1. [2026-10-17 – In this session, I worked on getting my Onshape software running and exploring some of the features that will be used for this marble run project.  I started with a square base that has a measurement](#2026-10-17-in-this-session-i-worked-on-getting-my-onshape-so)
+1. [2026-10-17 – Date: October 16, 2026](#2026-10-17-date-october-16-2026)
 
 ## Design
 
-### 2026-10-17 – In this session, I worked on getting my Onshape software running and exploring some of the features that will be used for this marble run project.  I started with a square base that has a measurement
+### 2026-10-17 – Date: October 16, 2026
 
 **3h**
+
+Date: October 16, 2026
 
 In this session, I worked on getting my Onshape software running and exploring some of the features that will be used for this marble run project.  I started with a square base that has a measurement of 120 mm by 120 mm with a 4mm thickness. For the base, I had to use the sketch tool, dimension tool, and extrude function. Next, I worked on designing a simple straight track that used circles and the dimension tool to make the proportions correct. One tool I found very useful when designing the simple track was the mirror tool which allowed me to make the exact line/shape appear on the opposite side of the chosen line/shape. The task of creating the track also involved the sweep tool that allows the extrusion to follow a path/line. One thing that I found difficult to interpret was the offset plane which created another surface to draw the line that will operate the sweep function. So after analyzing it, I see that the surface is listed as "Plane 1" or similar which helped me distinguish the surfaces easily.
 
